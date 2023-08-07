@@ -1,6 +1,8 @@
 # OpenCore-Builder
 This is a program for Windows which helps installing Hackintosh on your PC.
 
+# Development state: Alpha
+
 Requipments:
 A 16GB USB drive
 Command prompt basics
