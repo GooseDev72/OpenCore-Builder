@@ -1,8 +1,23 @@
-## macrecovery
+## OpenCore Builder
 
-macrecovery is a tool that helps to automate recovery interaction. It can be used to download diagnostics and recovery as well as analyse MLB.
+It will help you to install hacOS on your computer.
 
-Requires python3 to run. Run with `-h` argument to see all available arguments.
+# Development Status
 
-To create a disk image for a virtual machine installation use `build-image.sh`.
+Status: Beta
+Issues: Erase option erases first USB in DiskPart. Plug only empty USBs.
 
+# Credits
+acidanthera - OpenCorePkg and macrecovery
+netvn82 - OC EFIs
+microsoft - batch (this app language is batch)
+windows3280 - coder
+
+# Building
+Clone or download this repo.
+Build OpenCore Builder bat file using programs like Quick Bat to Exe Converter.
+Make 7zip SFX to make setup.
+
+# License 
+
+The Unlicense, you can fork it and do anything!
