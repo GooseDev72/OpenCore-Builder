@@ -8,10 +8,10 @@ Status: Beta
 Issues: Erase option erases first USB in DiskPart. Plug only empty USBs.
 
 # Credits
-acidanthera - OpenCorePkg and macrecovery
-netvn82 - OC EFIs
-microsoft - batch (this app language is batch)
-windows3280 - coder
+acidanthera - OpenCorePkg and macrecovery,
+netvn82 - OC EFIs,
+microsoft - batch (this app language is batch),
+windows3280 - coder.
 
 # Building
 Clone or download this repo.
